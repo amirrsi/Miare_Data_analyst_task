@@ -1,4 +1,4 @@
-<img width="2073" height="1025" alt="image" src="https://github.com/user-attachments/assets/3ddfaedc-28d0-4a81-8312-a8a5adbfb760" /># Miare_Data_analyst_task
+# Miare_Data_analyst_task
 
 This project tackles a data-driven challenge designed to test the skills relevant to **Planning Data Analyst** roles.
 
