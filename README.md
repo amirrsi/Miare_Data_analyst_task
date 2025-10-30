@@ -6,8 +6,8 @@ The project is divided into four main parts:
 
 - **Part 1**: SQL Querying  
 - **Part 2**: Data Visualization  
-- **Part 3**: [Add your title]  
-- **Part 4**: [Add your title]
+- **Part 3**: Retention and Cause analysis
+- **Part 4**: Business Insight
 
 ---
 
